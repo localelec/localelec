@@ -8,7 +8,8 @@ and web development with FastAPI, React, and Node.js to support the backend of r
 - **Frameworks**: 💨FastAPI, 🚅Express, 🌐React,Node.js
 - **Databases**: MongoDB, MySQL, NoSQL
 - **Tools**: 🐳Docker, Git, 👽PlatformIO
-- **Others**: ♾️Arduino, Tkinter (Python GUI), REST API Development
+- **Others**: expert"TM Robot" , ♾️Arduino expert, Tkinter (Python GUI), REST API Development 
+
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=localelec&show_icons=true&theme=radical)
