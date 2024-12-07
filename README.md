@@ -12,7 +12,8 @@ and web development with FastAPI, React, and Node.js to support the backend of r
 
 
 ## 📈 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=localelec)](https://github.com/localelec/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=localelec&show_icons=true)](https://github.com/localelec/github-readme-stats&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=localelec&layout=compact)
 ## 🌱 Currently Learning
 - Advanced backend architecture and microservices
 - CI/CD and DevOps practices with GitHub Actions
