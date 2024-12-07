@@ -12,9 +12,10 @@ and web development with FastAPI, React, and Node.js to support the backend of r
 
 
 ## 📈 GitHub Stats
-![localelec's Stats](https://github-readme-stats-f61g.vercel.app/api?username=localelec&theme=default&show_icons=true&hide_border=true&count_private=true)
+[![localelec's GitHub stats](https://github-readme-stats-f61g.vercel.app/api?username=localelec)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-f61g.vercel.app/api/top-langs/?username=localelec&layout=compact)
+
 ![localelec's Streak](https://github-readme-streak-stats.herokuapp.com/?user=localelec&theme=default&hide_border=true)
-![localelec's Top Languages](https://github-readme-stats-f61g.vercel.app/api/top-langs/?username=localelec&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 ## 🌱 Currently Learning
 - Advanced backend architecture and microservices
