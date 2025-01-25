@@ -12,8 +12,6 @@ and web development with FastAPI, React, and Node.js to support the backend of r
 
 
 ## 📈 GitHub Stats
-[![localelec's GitHub stats](https://github-readme-stats-f61g.vercel.app/api?username=localelec)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats-f61g.vercel.app/api/top-langs/?username=localelec&layout=compact)
 
 ![localelec's Streak](https://github-readme-streak-stats.herokuapp.com/?user=localelec&theme=default&hide_border=true)
 
